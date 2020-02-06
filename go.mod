@@ -1,4 +1,4 @@
-module test/uuid
+module github.com/teamlint/uuid
 
 go 1.13
 
